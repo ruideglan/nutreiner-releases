@@ -2,7 +2,7 @@
   "versionCode": 31,
   "versionName": "1.0.31",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-24T14:54:59Z",
-  "notes": "Melhorias de desempenho e correções gerais.",
+  "publishedAt": "2026-09-24T15:04:32Z",
+  "notes": "v1.0.30 - Assinatura com KeyStore oficial para compatibilidade total",
   "forceUpdate": false
 }
