@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.0.32",
+  "versionCode": 33,
+  "versionName": "1.0.33",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-24T15:13:26Z",
-  "notes": "v1.0.32 - Header de perfil em 2 colunas, exibicao correta de versao e feedback de update",
+  "publishedAt": "2026-09-24T15:26:45Z",
+  "notes": "v1.0.33 - Toasts com auto-dismiss em 2s e toque para fechar, nova regra de toasts",
   "forceUpdate": false
 }
