@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.34",
+  "versionCode": 35,
+  "versionName": "1.0.35",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-24T15:54:25Z",
-  "notes": "v1.0.34 - Auto-scroll abas perfil, correcao navbar safe-area e botao alterar senha",
+  "publishedAt": "2026-09-24T16:14:06Z",
+  "notes": "v1.0.35 - Download interno de APK com instalador direto e correcao das pills do perfil",
   "forceUpdate": false
 }
