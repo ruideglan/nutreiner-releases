@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.35",
+  "versionCode": 36,
+  "versionName": "1.0.36",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-24T16:14:06Z",
-  "notes": "v1.0.35 - Download interno de APK com instalador direto e correcao das pills do perfil",
+  "publishedAt": "2026-09-24T16:42:14Z",
+  "notes": "v1.0.36 - Central de notificacoes unificada com lembrete de treino e correcao das pills do perfil",
   "forceUpdate": false
 }
