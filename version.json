@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "1.0.47",
+  "versionCode": 48,
+  "versionName": "1.0.48",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-25T17:21:28Z",
+  "publishedAt": "2026-09-25T18:52:27Z",
   "notes": "Melhorias de desempenho e correções gerais.",
   "forceUpdate": false
 }
