@@ -1,8 +1,8 @@
 {
-  "versionCode": 44,
-  "versionName": "1.0.44",
+  "versionCode": 45,
+  "versionName": "1.0.45",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-25T15:53:31Z",
-  "notes": "Hierarquia com identacao de topicos e subtopicos na sidebar",
+  "publishedAt": "2026-09-25T15:55:11Z",
+  "notes": "Melhorias de desempenho e correções gerais.",
   "forceUpdate": false
 }
