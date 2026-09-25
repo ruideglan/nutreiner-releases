@@ -1,8 +1,8 @@
 {
-  "versionCode": 41,
-  "versionName": "1.0.41",
+  "versionCode": 42,
+  "versionName": "1.0.42",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-25T14:15:50Z",
-  "notes": "Melhorias de desempenho e correções gerais.",
+  "publishedAt": "2026-09-25T14:31:32Z",
+  "notes": "Correção crítica de tela branca na inicialização",
   "forceUpdate": false
 }
