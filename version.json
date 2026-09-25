@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.0.43",
+  "versionCode": 44,
+  "versionName": "1.0.44",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-09-25T15:01:45Z",
-  "notes": "Sidebar clean redesenhada e customização da barra móvel",
+  "publishedAt": "2026-09-25T15:21:53Z",
+  "notes": "Melhorias de desempenho e correções gerais.",
   "forceUpdate": false
 }
