@@ -2,7 +2,7 @@
   "versionCode": 54,
   "versionName": "1.0.54",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-11-19T22:10:15Z",
-  "notes": "Ajustes visuais na home page e estilos",
+  "publishedAt": "2026-11-25T16:10:19Z",
+  "notes": "Melhorias de UI/UX: ConfirmModal, Skeletons e loading states",
   "forceUpdate": false
 }
