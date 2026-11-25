@@ -1,8 +1,8 @@
 {
-  "versionCode": 55,
-  "versionName": "1.0.55",
+  "versionCode": 56,
+  "versionName": "1.0.56",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-11-25T16:42:27Z",
-  "notes": "Corre\u00e7\u00f5es de notifica\u00e7\u00f5es",
+  "publishedAt": "2026-11-25T17:32:43Z",
+  "notes": "Corre\u00e7\u00f5es de backup nativo e dashboard do aluno",
   "forceUpdate": false
 }
