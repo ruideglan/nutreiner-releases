@@ -1,8 +1,8 @@
 {
-  "versionCode": 57,
-  "versionName": "1.0.57",
+  "versionCode": 58,
+  "versionName": "1.0.58",
   "apkUrl": "https://raw.githubusercontent.com/ruideglan/nutreiner-releases/main/app-debug.apk",
-  "publishedAt": "2026-11-25T19:15:44Z",
-  "notes": "Atualiza\u00e7\u00e3o do \u00edcone de notifica\u00e7\u00e3o",
+  "publishedAt": "2026-11-26T01:54:01Z",
+  "notes": "Corre\u00e7\u00e3o do \u00edcone de notifica\u00e7\u00e3o",
   "forceUpdate": false
 }
